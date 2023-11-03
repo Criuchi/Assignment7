@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 98%;
+    font-family: 'Jost', sans-serif;
+}
+
+table, th, td {
+    border: 5px groove black;
+}
+
+th {
+    background-color: #a89b9b;
+}
+
+th a {
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+
+th a::after {
+    content: " ";
+    font-size: 10px;
+}
+
+.sort-asc a::after {
+    content: " &#x25B2;";
+}
+
+.sort-desc a::after {
+    content: " &#x25BC;";
+}

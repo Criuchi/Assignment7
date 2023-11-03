@@ -1,0 +1,65 @@
+[
+    {
+        "first_name": "Gojo",
+        "last_name": "Satoru",
+        "age": 29,
+        "gender": "Male",
+        "occupation": "Jujutsu Sorcerer",
+        "status": "Alive",
+        "date": "1994-05-10"
+    },
+    {
+        "first_name": "Loid",
+        "last_name": "Forger",
+        "age": 30,
+        "gender": "Male",
+        "occupation": "Spy",
+        "status": "Alive",
+        "date": "1990-03-15"
+    },
+    {
+        "first_name": "Mikasa",
+        "last_name": "Ackerman",
+        "age": 19,
+        "gender": "Female",
+        "occupation": "Soldier",
+        "status": "Alive",
+        "date": "2004-07-20"
+    },
+    {
+        "first_name": "Eren",
+        "last_name": "Yaeger",
+        "age": 20,
+        "gender": "Male",
+        "occupation": "Soldier",
+        "status": "Dead",
+        "date": "2003-08-08"
+    },
+    {
+        "first_name": "Nobara",
+        "last_name": "Kugisaki",
+        "age": 17,
+        "gender": "Male",
+        "occupation": "Spy",
+        "status": "Dead",
+        "date": "2006-03-30"
+    },
+    {
+        "first_name": "Anya",
+        "last_name": "Forger",
+        "age": 6,
+        "gender": "Female",
+        "occupation": "Student",
+        "status": "Alive",
+        "date": "2017-11-11"
+    },
+    {
+        "first_name": "Aizen",
+        "last_name": "Sosuke",
+        "age": 32,
+        "gender": "Male",
+        "occupation": "Villain",
+        "status": "Dead",
+        "date": "1991-04-14"
+    }
+]
